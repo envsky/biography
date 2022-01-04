@@ -1,0 +1,13 @@
+body {
+  background-color: #E3FDFD;
+}
+
+hr {
+  border: none;
+  background-color: #AAAAAA;
+  height: 1px;
+}
+
+h3, h1 {
+  color: #08D9D6;
+}
